@@ -24,7 +24,7 @@ public class TestMyArrayList {
         myArrayList.remove(5);
         System.out.println(myArrayList);
 
-        //16
+        //11
         System.out.println(myArrayList.size());
 
         //3

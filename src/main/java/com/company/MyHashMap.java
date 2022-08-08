@@ -143,6 +143,9 @@ class MyHashMap<K, V> {
                     obj = n.value;
                     return obj;
                 }
+                else{
+                    return null;
+                }
             }
         }
         return obj;

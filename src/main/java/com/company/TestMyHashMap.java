@@ -19,6 +19,7 @@ class TestMyHashMap {
 
         //apple
         System.out.println(myHashMap.get(1));
+        System.out.println(myHashMap.get(4));//null
 
         //
         myHashMap.clear();

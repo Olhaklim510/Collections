@@ -31,7 +31,7 @@ class MyArrayList<E> {
     }
 
     public int size(){
-        return array.length;
+        return position;
     }
 
     public Object get(int index){
